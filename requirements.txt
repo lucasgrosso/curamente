@@ -4,6 +4,7 @@ django_extensions
 django-filter
 django-rest-auth
 djangorestframework
+drf_material
 drf_redesign
 httpie
 Markdown
@@ -13,3 +14,4 @@ pytest-django
 pytest-subtests
 pytest-mock
 pytest-xdist[psutil]
+pillow
